@@ -1,3 +1,3 @@
 This is more text from branch 1
 A line from branch 2
-A line from branch 4
+A line from branch 4 ad another change
