@@ -1,1 +1,2 @@
 This is more text from branch 1
+A line from branch 2
